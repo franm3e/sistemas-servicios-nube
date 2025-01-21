@@ -7,7 +7,7 @@
 * UNIVERSIDAD DE CASTILLA-LA MANCHA
 * :es:
 
-Autores (Grupo 7):
+Autores (Grupo 9):
 - Rubio Barato, Cristian
 - Ortega Gómez, Víctor
 - Martínez Esteso, Francisco
